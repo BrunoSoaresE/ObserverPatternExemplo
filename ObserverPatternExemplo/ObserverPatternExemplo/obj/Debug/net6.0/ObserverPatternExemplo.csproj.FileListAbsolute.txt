@@ -1,0 +1,15 @@
+C:\Sistemas\c#\ObserverPatternExemplo\ObserverPatternExemplo\bin\Debug\net6.0\ObserverPatternExemplo.exe
+C:\Sistemas\c#\ObserverPatternExemplo\ObserverPatternExemplo\bin\Debug\net6.0\ObserverPatternExemplo.deps.json
+C:\Sistemas\c#\ObserverPatternExemplo\ObserverPatternExemplo\bin\Debug\net6.0\ObserverPatternExemplo.runtimeconfig.json
+C:\Sistemas\c#\ObserverPatternExemplo\ObserverPatternExemplo\bin\Debug\net6.0\ObserverPatternExemplo.dll
+C:\Sistemas\c#\ObserverPatternExemplo\ObserverPatternExemplo\bin\Debug\net6.0\ref\ObserverPatternExemplo.dll
+C:\Sistemas\c#\ObserverPatternExemplo\ObserverPatternExemplo\bin\Debug\net6.0\ObserverPatternExemplo.pdb
+C:\Sistemas\c#\ObserverPatternExemplo\ObserverPatternExemplo\obj\Debug\net6.0\ObserverPatternExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\c#\ObserverPatternExemplo\ObserverPatternExemplo\obj\Debug\net6.0\ObserverPatternExemplo.AssemblyInfoInputs.cache
+C:\Sistemas\c#\ObserverPatternExemplo\ObserverPatternExemplo\obj\Debug\net6.0\ObserverPatternExemplo.AssemblyInfo.cs
+C:\Sistemas\c#\ObserverPatternExemplo\ObserverPatternExemplo\obj\Debug\net6.0\ObserverPatternExemplo.csproj.CoreCompileInputs.cache
+C:\Sistemas\c#\ObserverPatternExemplo\ObserverPatternExemplo\obj\Debug\net6.0\ObserverPatternExemplo.dll
+C:\Sistemas\c#\ObserverPatternExemplo\ObserverPatternExemplo\obj\Debug\net6.0\ref\ObserverPatternExemplo.dll
+C:\Sistemas\c#\ObserverPatternExemplo\ObserverPatternExemplo\obj\Debug\net6.0\ObserverPatternExemplo.pdb
+C:\Sistemas\c#\ObserverPatternExemplo\ObserverPatternExemplo\obj\Debug\net6.0\ObserverPatternExemplo.genruntimeconfig.cache
+C:\Sistemas\c#\ObserverPatternExemplo\ObserverPatternExemplo\obj\Debug\net6.0\ObserverPatternExemplo.csproj.AssemblyReference.cache
